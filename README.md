@@ -1,2 +1,2 @@
 # GIPS
-Get all the ip assets within local networks and know their MAC addreess, Operating system, router ip, NEtbios ,DNS name,Host name.
+Get all the IP assets within local network and know their MAC addreess, Operating system, router ip, NEtbios ,DNS name,Host name. You will be able to know the ports open on that particular IP
